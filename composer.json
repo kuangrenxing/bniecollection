@@ -1,0 +1,13 @@
+{
+    "name": "chenxin/bniecollection",
+    "description": "测试使用",
+    "authors": [
+        {
+            "name": "陈新",
+            "email": "462635006@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"    
+    }
+}
