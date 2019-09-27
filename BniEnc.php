@@ -1,4 +1,5 @@
 <?php
+namespace chenxin\bniecollection;
 
 class BniEnc
 {
